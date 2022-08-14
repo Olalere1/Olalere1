@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyst/data science related task.
 - 🌱 I’m currently deepening my skills in python.
 - 💞️ I’m looking to collaborate on any python-based open project.
-- 📫 Through my github or linkedin account.
+- 📫 I can be reached through my github or linkedin account.
 
 <!---
 Olalere1/Olalere1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
